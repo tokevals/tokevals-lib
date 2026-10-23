@@ -1,0 +1,11 @@
+{
+  "name": "@tokevals/catalog-checks",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "validate": "node scripts/validate-catalog.mjs",
+    "test": "node --test tests/*.test.mjs && npm run validate"
+  }
+}

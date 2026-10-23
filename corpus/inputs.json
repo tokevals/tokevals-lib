@@ -1,0 +1,11 @@
+{
+  "description": "Synthetic input cases for future artifact equivalence checks; no results or measurements",
+  "inputs": [
+    "Hello, world!",
+    "오늘도 좋은 하루 보내세요!",
+    "Türkçe kelimeler ve boşluklar",
+    "👋🏽🚀 mixed 한글 العربية",
+    "café",
+    " odd  spacing\tand a newline\n"
+  ]
+}
