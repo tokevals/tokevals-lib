@@ -29,7 +29,7 @@ equivalence between artifacts.
 See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing an entry. The wider
 research scope and measurement terminology live in
 [`tokevals-research/PROJECT_CONTEXT.md`](https://github.com/tokevals/tokevals-research/blob/main/PROJECT_CONTEXT.md).
-The [TokEvals Explorer](https://tokeval.dev) is a hosted dashboard with a
+The [TokEvals Explorer](https://tokevals.dev) is a hosted dashboard with a
 private implementation; its public catalog is maintained here.
 
 ## Licensing
@@ -37,5 +37,5 @@ private implementation; its public catalog is maintained here.
 Code and documentation outside `catalog/` are Apache-2.0 licensed under
 [LICENSE](LICENSE). The files in `catalog/`, including the model data and schema,
 are CC-BY-4.0 licensed under [catalog/LICENSE](catalog/LICENSE). Contributions
-require a DCO sign-off. The “TokEvals” name and `tokeval.dev` marks are not
+require a DCO sign-off. The “TokEvals” name and `tokevals.dev` marks are not
 licensed with the code or catalog.
